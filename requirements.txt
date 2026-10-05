@@ -1,0 +1,8 @@
+streamlit
+chromadb
+fastembed
+google-genai
+pymupdf
+python-docx
+python-dotenv
+pytest
